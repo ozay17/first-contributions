@@ -17,6 +17,7 @@
 - [himanshu singh (https://github.com/H321-ma)
 - Kapil Singh Negi
 - [Gaurav Kar](https://github.com/grvkr777)
+- [Ozay Sarang}(https://github.com/Ozay17) 
 - Conor Lambert
 - [Jenndroid](https://github.com/jenndroid)
 - [Nikhil Singhal] (https://github.com/nikhil-stack)
